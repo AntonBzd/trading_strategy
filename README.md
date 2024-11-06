@@ -1,1 +1,1 @@
-# trading_strategy_rsi_trend_cross_angle
+# Strategy
